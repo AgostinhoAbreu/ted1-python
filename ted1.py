@@ -2,7 +2,7 @@ alturas= []
 altura_masculina=[]
 qntd_feminina= 0
 
-for i in range(5):
+for i in range(15):
     altura= float(input("Digite sua altura em metros: "))
     alturas.append(altura)
 
